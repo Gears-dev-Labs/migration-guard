@@ -1,4 +1,5 @@
 CREATE TABLE users (
   id INT PRIMARY KEY,
-  name varchar
+  name varchar,
+  age int
 );
